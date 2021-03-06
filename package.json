@@ -1,0 +1,26 @@
+{
+  "name": "express-getting-started",
+  "version": "1.0.0",
+  "description": "learning and practising express",
+  "main": "src\\index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmdavid3/express-getting-started.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs"
+  ],
+  "author": "kmdavid3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmdavid3/express-getting-started/issues"
+  },
+  "homepage": "https://github.com/kmdavid3/express-getting-started#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
